@@ -1,0 +1,475 @@
+{
+  "modules": [
+    {
+      "name": "Communication",
+      "levels": [
+        {
+          "duration": 90,
+          "games": [
+            {
+              "name": "Quiz",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "One_pic_four_words",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Word_clouds",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            }
+          ]
+        },
+        {
+          "duration": 90,
+          "games": [
+            {
+              "name": "One_pic_four_words",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Word_clouds",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Quiz",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            }
+          ]
+        },
+        {
+          "duration": 90,
+          "games": [
+            {
+              "name": "Word_clouds",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Quiz",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "One_pic_four_words",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            }
+          ]
+        },
+        {
+          "duration": 90,
+          "games": [
+            {
+              "name": "Quiz",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Word_clouds",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "One_pic_four_words",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            }
+          ]
+        },
+        {
+          "duration": 90,
+          "games": [
+            {
+              "name": "One_pic_four_words",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Word_clouds",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Quiz",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            }
+          ]
+        },
+        {
+          "duration": 90,
+          "games": [
+            {
+              "name": "Quiz",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Word_clouds",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Leadership",
+      "levels": [
+        {
+          "duration": 90,
+          "games": [
+            {
+              "name": "Word_clouds",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "One_pic_four_words",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Quiz",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            }
+          ]
+        },
+        {
+          "duration": 90,
+          "games": [
+            {
+              "name": "Quiz",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Word_clouds",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "One_pic_four_words",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            }
+          ]
+        },
+        {
+          "duration": 90,
+          "games": [
+            {
+              "name": "Missing_words",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "One_pic_four_words",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Word_clouds",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            }
+          ]
+        },
+        {
+          "duration": 90,
+          "games": [
+            {
+              "name": "Word_clouds",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Quiz",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Missing_words",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            }
+          ]
+        },
+        {
+          "duration": 90,
+          "games": [
+            {
+              "name": "Quiz",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Missing_words",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Word_clouds",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Financement",
+      "levels": [
+        {
+          "duration": 90,
+          "games": [
+            {
+              "name": "One_pic_four_words",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Quiz",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Hanged",
+              "difficulty": 2,
+              "turns": 1,
+              "data": ""
+            }
+          ]
+        },
+        {
+          "duration": 90,
+          "games": [
+            {
+              "name": "Missing_words",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Word_clouds",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Quiz",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            }
+          ]
+        },
+        {
+          "duration": 90,
+          "games": [
+            {
+              "name": "Hanged",
+              "difficulty": 2,
+              "turns": 1,
+              "data": ""
+            },
+            {
+              "name": "Quiz",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            }
+          ]
+        },
+        {
+          "duration": 90,
+          "games": [
+            {
+              "name": "Quiz",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Word_clouds",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Hanged",
+              "difficulty": 2,
+              "turns": 1,
+              "data": ""
+            }
+          ]
+        },
+        {
+          "duration": 90,
+          "games": [
+            {
+              "name": "Hanged",
+              "difficulty": 2,
+              "turns": 1,
+              "data": ""
+            },
+            {
+              "name": "Quiz",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Word_clouds",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "La Tech au Senegal",
+      "levels": [
+        {
+          "duration": 90,
+          "games": [
+            {
+              "name": "Quiz",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Word_clouds",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            }
+          ]
+        },
+        {
+          "duration": 90,
+          "games": [
+            {
+              "name": "Quiz",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Structuration",
+      "levels": [
+        {
+          "duration": 90,
+          "games": [
+            {
+              "name": "Word_clouds",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            }
+          ]
+        },
+        {
+          "duration": 90,
+          "games": [
+            {
+              "name": "Quiz",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Word_clouds",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            }
+          ]
+        },
+        {
+          "duration": 90,
+          "games": [
+            {
+              "name": "Word_clouds",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Quiz",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            }
+          ]
+        },
+        {
+          "duration": 90,
+          "games": [
+            {
+              "name": "Quiz",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            },
+            {
+              "name": "Word_clouds",
+              "difficulty": 2,
+              "turns": 2,
+              "data": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

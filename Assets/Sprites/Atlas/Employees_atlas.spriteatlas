@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Employees_atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 8eef9428e9bc01a4aa7fb5bde5cbf6c5, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 462d03013cd235141a3db5f822b1bfd0, type: 3}
+  - {fileID: 21300000, guid: c2e745620be9f3b48a90c85d8472ab60, type: 3}
+  - {fileID: 21300000, guid: 502ffe62a1ec97f41911aecb35c624ec, type: 3}
+  - {fileID: 21300000, guid: e3482ad2e64048e4ea6d4b3f15557d6c, type: 3}
+  - {fileID: 21300000, guid: 2b714213da639a9499d1c5b47eb67464, type: 3}
+  - {fileID: 21300000, guid: 4232b5b32ea852146ac9926cefbfa8cf, type: 3}
+  - {fileID: 21300000, guid: ef1fc716662dc82498b0be4baa844e16, type: 3}
+  - {fileID: 21300000, guid: ecf47f26263722246bd53637342f227f, type: 3}
+  - {fileID: 21300000, guid: 0c48c496594d5cb4a90626b34eff1017, type: 3}
+  - {fileID: 21300000, guid: 835450c604e2797478909f9d01d0df9e, type: 3}
+  - {fileID: 21300000, guid: e3d516f6769f32846870add80c9f7147, type: 3}
+  - {fileID: 21300000, guid: ef9976775381e5c4d9b319e3f546a54b, type: 3}
+  - {fileID: 21300000, guid: ec7c3738ccd73964493e56b168cba1ba, type: 3}
+  - {fileID: 21300000, guid: 2dbc16487e7457b4e85811e0499ab4cb, type: 3}
+  - {fileID: 21300000, guid: 6c65c88c0870cef4d972849c2dc2d527, type: 3}
+  - {fileID: 21300000, guid: c0b351ac2d24986419a6be3743d931b0, type: 3}
+  - {fileID: 21300000, guid: a07262cc98feafc4a980bad01900e6a5, type: 3}
+  - {fileID: 21300000, guid: 939fedcccdd280848a0653d1017e0701, type: 3}
+  - {fileID: 21300000, guid: 19a8920ddaa97644aa6a57aad9fed03e, type: 3}
+  - {fileID: 21300000, guid: 87587dbdf5817f44c95ddfa13f26d0dd, type: 3}
+  - {fileID: 21300000, guid: 8a94a37ebdc136d4287b9914a34d84bb, type: 3}
+  - {fileID: 21300000, guid: fbf89ecf2b2cf654789cd50a22fd949c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ache_attimer
+  - "malick_dram\xE9"
+  - arfang_mafoudji
+  - papa_mactar_sow
+  - johana
+  - adama_bintou_sow
+  - guorgui_malick_diallo
+  - issa_ba
+  - francis_silakoul
+  - marie_soce_ndour
+  - abdoulaye_hann
+  - mamadou_thiam
+  - thiara
+  - soukaye_diaw
+  - aita_diouf
+  - ndeye_aminata_voyel
+  - zerbo
+  - "mariama_di\xE9ne"
+  - abdoulaye_hann_1
+  - fily_cissokho
+  - sophie_diagne
+  - boubacar_diallo
+  m_Tag: Employees_atlas
+  m_IsVariant: 0

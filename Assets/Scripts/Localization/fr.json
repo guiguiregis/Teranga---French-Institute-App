@@ -1,0 +1,53 @@
+{
+	"items":
+	[
+        { "key" : "CHOOSE_YOUR_COUNTRY", "value": "Choisi ton pays"},
+        { "key" : "CONTINUE_WITH", "value": "Continuer avec"},
+        { "key" : "CHOOSE_ANOTHER", "value": "Autre pays"},
+
+        { "key" : "BEST_SCORE", "value": "Ton meilleur score"},
+        { "key" : "YOUR_COUNTRY", "value": "Ton pays"},
+        { "key" : "LEVEL", "value": "Niveau"},
+        { "key" : "CUMULATIVE_SCORE", "value": "Score cumulé"},
+        { "key" : "NEXT_LEVEL_SCORE", "value": "Prochain niveau"},
+        
+        { "key" : "RANKING", "value": "Classement"},
+        { "key" : "LOADING", "value": "Chargement..."},
+        { "key" : "MUSIC", "value": "Musique"},
+        { "key" : "SOUNDS", "value": "Sons"},
+        { "key" : "SHARE_TITLE", "value": "Mon score sur AfroJuggle"},
+        { "key" : "SHARE_BODY", "value": "J'ai fait un score de {0} sur AfroJuggle, prêt à relever le défi ? {1}"},
+        { "key" : "SETTINGS", "value": "Options"},
+        { "key" : "VISIT_US", "value": "Visite notre site"},
+        { "key" : "TAP_HERE", "value": "Tape ici !"},
+        { "key" : "NEXT_ITEM", "value": "Prochain item :"},
+        { "key" : "UNLOCK_BALL", "value": "Ballon"},
+        { "key" : "UNLOCK_OUTFIT", "value": "Tenue"},
+        { "key" : "UNLOCK_SUPPORTERS", "value": "Supporteurs"},
+        
+        { "key" : "COUNTRY_SENEGAL", "value": "Sénégal"},
+        { "key" : "COUNTRY_TUNISIA", "value": "Tunisie"},
+        { "key" : "COUNTRY_NIGERIA", "value": "Nigéria"},
+        { "key" : "COUNTRY_MOROCCO", "value": "Maroc"},
+        { "key" : "COUNTRY_DR_CONGO", "value": "RD Congo"},
+        { "key" : "COUNTRY_GHANA", "value": "Ghana"},
+        { "key" : "COUNTRY_CAMEROON", "value": "Cameroun"},
+        { "key" : "COUNTRY_EGYPT", "value": "Egypte"},
+        { "key" : "COUNTRY_MALI", "value": "Mali"},
+        { "key" : "COUNTRY_IVORY_COAST", "value": "Côte d'Ivoire"},
+        { "key" : "COUNTRY_ALGERIA", "value": "Algérie"},
+        { "key" : "COUNTRY_GUINEA", "value": "Guinée"},
+        { "key" : "COUNTRY_SOUTH_AFRICA", "value": "Afrique du Sud"},
+        { "key" : "COUNTRY_UGANDA", "value": "Ouganda"},
+        { "key" : "COUNTRY_BENIN", "value": "Bénin"},
+        { "key" : "COUNTRY_MAURITANIA", "value": "Mauritanie"},
+        { "key" : "COUNTRY_KENYA", "value": "Kenya"},
+        { "key" : "COUNTRY_MADAGASCAR", "value": "Madagascar"},
+        { "key" : "COUNTRY_ZIMBABWE", "value": "Zimbabwe"},
+        { "key" : "COUNTRY_NAMIBIA", "value": "Namibie"},
+        { "key" : "COUNTRY_GUINEA_BISSAU", "value": "Guinée Bissau"},
+        { "key" : "COUNTRY_ANGOLA", "value": "Angola"},
+        { "key" : "COUNTRY_TANZANIA", "value": "Tanzanie"},
+        { "key" : "COUNTRY_BURUNDI", "value": "Burundi"}
+	]
+}

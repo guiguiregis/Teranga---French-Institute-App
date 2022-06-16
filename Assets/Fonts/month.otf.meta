@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ac977db64821cc640933c05e76bcb056
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mont
+  fontNames:
+  - Mont
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: aaa1fc44a8b2fde4e909561108ac0ca2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1642 @@
+fileFormatVersion: 2
+guid: 69bdb3cd66949ad4caa857e220d1933a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8633881525917383573
+    second: Module_background_panel
+  - first:
+      213: -1771866121167276815
+    second: Spritesheet_1
+  - first:
+      213: 2091829175261615561
+    second: Spritesheet_2
+  - first:
+      213: 756911166660455246
+    second: Spritesheet_3
+  - first:
+      213: 403005533434085257
+    second: Spritesheet_4
+  - first:
+      213: 6961653080833796888
+    second: Spritesheet_5
+  - first:
+      213: 6266472923241529454
+    second: Avatar_1
+  - first:
+      213: -5282911695883833476
+    second: Avatar_2
+  - first:
+      213: 7021449457718125206
+    second: Spritesheet_8
+  - first:
+      213: 7357123456376359846
+    second: Spritesheet_9
+  - first:
+      213: -7343860702648896561
+    second: Avatar_3
+  - first:
+      213: -3531878321590394162
+    second: Avatar_4
+  - first:
+      213: -4888718896546230129
+    second: Spritesheet_12
+  - first:
+      213: 2118958311618589481
+    second: One_pic_4words_button
+  - first:
+      213: 3228903892712671954
+    second: World
+  - first:
+      213: -513590313336307935
+    second: Parameter
+  - first:
+      213: 1238036043553056152
+    second: Spritesheet_16
+  - first:
+      213: -1623444342149152459
+    second: Chat
+  - first:
+      213: -1125653685376602382
+    second: Spritesheet_18
+  - first:
+      213: 8527111519951476930
+    second: Achievement
+  - first:
+      213: -7490898752223310767
+    second: Avatar_5
+  - first:
+      213: 6288659706726585256
+    second: Avatar_6
+  - first:
+      213: -2022454291514961620
+    second: Spritesheet_22
+  - first:
+      213: -3831202356669062874
+    second: Stats
+  - first:
+      213: 8670926691811076372
+    second: Star_unlocked
+  - first:
+      213: -6512771319330908805
+    second: Star_not_unlocked
+  - first:
+      213: -1260317311526373650
+    second: Close_button
+  - first:
+      213: 7419593473033909056
+    second: Reload
+  - first:
+      213: 4123474909421625494
+    second: Hangman_6
+  - first:
+      213: 4583289673117313467
+    second: Hangman_5
+  - first:
+      213: 5399601884874693798
+    second: Hangman_4
+  - first:
+      213: 4735375665114324730
+    second: Hangman_0
+  - first:
+      213: 7216629191016651444
+    second: Module_button
+  - first:
+      213: -3332206485065865636
+    second: Timer
+  - first:
+      213: 5769956724132029914
+    second: Hanged_button1
+  - first:
+      213: -6284306996831967130
+    second: Hanged_button2
+  - first:
+      213: -1029436229247143400
+    second: Button_4
+  - first:
+      213: 9155231472630613657
+    second: Spritesheet_37
+  - first:
+      213: -6448914520323044390
+    second: Spritesheet_38
+  - first:
+      213: 8768742673102718018
+    second: Lock_color
+  - first:
+      213: 2314022550564037442
+    second: Spritesheet_40
+  - first:
+      213: -4399989721941848498
+    second: Move_left_button
+  - first:
+      213: -1183731428016168853
+    second: Spritesheet_42
+  - first:
+      213: 2401752518082830216
+    second: Move_right_button
+  - first:
+      213: 3411045427079179176
+    second: Hangman_body
+  - first:
+      213: 244056041600906683
+    second: Hanged_minigame_inputfield
+  - first:
+      213: 828832998005528226
+    second: Hangman_2
+  - first:
+      213: 8657357237471645021
+    second: Hangman_1
+  - first:
+      213: -253727130665565485
+    second: Spritesheet_48
+  - first:
+      213: 4659560807072238421
+    second: Spritesheet_49
+  - first:
+      213: -7895179552996830595
+    second: Button_5
+  - first:
+      213: 6435912432560062591
+    second: Spritesheet_51
+  - first:
+      213: -7986099397935428589
+    second: Spritesheet_52
+  - first:
+      213: 3692544136830997328
+    second: Module_arrow
+  - first:
+      213: 2671418821297432054
+    second: Main_word_cloud
+  - first:
+      213: -1360019605404271032
+    second: Related_word_cloud
+  - first:
+      213: 9036451687168769456
+    second: kayfo_bottom_logo
+  - first:
+      213: -3150632286066318279
+    second: Circle
+  - first:
+      213: 6486476632154434739
+    second: Spritesheet_58
+  - first:
+      213: -4674139532368329282
+    second: Profile_title_bar
+  - first:
+      213: 1659988260341529602
+    second: Kayfo_upper_logo
+  - first:
+      213: -2321731479949568976
+    second: Profile_bottom_bar
+  - first:
+      213: 5001098599144955268
+    second: Lock
+  - first:
+      213: -5195314238524810159
+    second: Achieved
+  - first:
+      213: 7515378873674563705
+    second: Not_achieved
+  - first:
+      213: 5702021815828362590
+    second: Profile_background
+  - first:
+      213: 8633881525917383573
+    second: Main_module_background
+  - first:
+      213: -4202630254628140052
+    second: Spritesheet_0
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Main_module_background
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 1150
+        height: 606
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bfc19e085b1d770800000000000000
+      internalID: 8633881525917383573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1333
+        width: 351
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4764a86211967e0800000000000000
+      internalID: -1771866121167276815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1334
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5544a4d8ba70d10800000000000000
+      internalID: 2091829175261615561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1358
+        width: 316
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ba25f12b6118a00800000000000000
+      internalID: 756911166660455246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1146
+        width: 175
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ffadeb563c79500800000000000000
+      internalID: 403005533434085257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1261
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b2a94b792cc9060800000000000000
+      internalID: 6961653080833796888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_1
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1085
+        width: 147
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e604a682cebf6f650800000000000000
+      internalID: 6266472923241529454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_2
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1088
+        width: 128
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f661b7dc35fa6b0800000000000000
+      internalID: -5282911695883833476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1190
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692e5af9413317160800000000000000
+      internalID: 7021449457718125206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1118
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abc10acdc0c91660800000000000000
+      internalID: 7357123456376359846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_3
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 783
+        width: 161
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc379a2b99d551a90800000000000000
+      internalID: -7343860702648896561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Avatar_4
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 778
+        width: 162
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2a3b3116f3cfec0800000000000000
+      internalID: -3531878321590394162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1034
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f805f9ca018c72cb0800000000000000
+      internalID: -4888718896546230129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: One_pic_4words_button
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 1034
+        width: 276
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92333e19b5d086d10800000000000000
+      internalID: 2118958311618589481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: World
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1051
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dac303abfe5fcc20800000000000000
+      internalID: 3228903892712671954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Parameter
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 966
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ff185c45c5fd8f0800000000000000
+      internalID: -513590313336307935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 958
+        width: 245
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8952c13e8336e2110800000000000000
+      internalID: 1238036043553056152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chat
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 977
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5310591e8fd5879e0800000000000000
+      internalID: -1623444342149152459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 882
+        width: 204
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fea407efefd060f0800000000000000
+      internalID: -1125653685376602382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achievement
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 886
+        width: 86
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c859d2bfb2665670800000000000000
+      internalID: 8527111519951476930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stats
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 814
+        width: 92
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621e91451c5d4dac0800000000000000
+      internalID: -3831202356669062874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_unlocked
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 798
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4192adab2e1555870800000000000000
+      internalID: 8670926691811076372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star_not_unlocked
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 799
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75ddefbdfcfd95a0800000000000000
+      internalID: -6512771319330908805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Close_button
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 740
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6f1362514728ee0800000000000000
+      internalID: -1260317311526373650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reload
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 736
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0433ef9f3f0b7f660800000000000000
+      internalID: 7419593473033909056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hangman_6
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 692
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690ef404596893930800000000000000
+      internalID: 4123474909421625494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hangman_5
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 579
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9afd4acad1b9f30800000000000000
+      internalID: 4583289673117313467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hangman_4
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 650
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac5c745e4d3fea40800000000000000
+      internalID: 5399601884874693798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hangman_0
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 373
+        width: 236
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe1b2d041f67b140800000000000000
+      internalID: 4735375665114324730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Module_button
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 736
+        width: 309
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba134e830e962460800000000000000
+      internalID: 7216629191016651444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Timer
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 539
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56656b4bdf91c1d0800000000000000
+      internalID: -3332206485065865636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanged_button1
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 544
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5244fe111031050800000000000000
+      internalID: 5769956724132029914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanged_button2
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 542
+        width: 67
+        height: 70
+      alignment: 9
+      pivot: {x: 0.57666713, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66824520518a9c8a0800000000000000
+      internalID: -6284306996831967130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_4
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 531
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8127ec42435b6b1f0800000000000000
+      internalID: -1029436229247143400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 522
+        width: 53
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996cf92948aed0f70800000000000000
+      internalID: 9155231472630613657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 533
+        width: 75
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb494d596ad086a0800000000000000
+      internalID: -6448914520323044390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lock_color
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 625
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244c81d9005d0b970800000000000000
+      internalID: 8768742673102718018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 528
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243ec90ef3f0d1020800000000000000
+      internalID: 2314022550564037442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_left_button
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 620
+        width: 54
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e4948f8a810f2c0800000000000000
+      internalID: -4399989721941848498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 531
+        width: 81
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6061a3b98a829fe0800000000000000
+      internalID: -1183731428016168853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move_right_button
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 619
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f1abea03db45120800000000000000
+      internalID: 2401752518082830216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hangman_3
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 580
+        width: 12
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab66c15eb7765f20800000000000000
+      internalID: 3411045427079179176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hanged_minigame_inputfield
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 508
+        width: 89
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5f8e04daf036300800000000000000
+      internalID: 244056041600906683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hangman_2
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 460
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6dd38683b908b00800000000000000
+      internalID: 828832998005528226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hangman_1
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 461
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d8721f98c152870800000000000000
+      internalID: 8657357237471645021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 457
+        width: 94
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2cccad4849a7cf0800000000000000
+      internalID: -253727130665565485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 441
+        width: 99
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b8fdaddd51aa040800000000000000
+      internalID: 4659560807072238421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button_5
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 426
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7252b9e600be6290800000000000000
+      internalID: -7895179552996830595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 431
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70434c2244f05950800000000000000
+      internalID: 6435912432560062591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 445
+        width: 96
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c0915e8ecab2190800000000000000
+      internalID: -7986099397935428589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Main_word_cloud
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 377
+        width: 229
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5e9b1a349c21520800000000000000
+      internalID: 2671418821297432054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Related_word_cloud
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 60
+        width: 204
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ebf44ef5d302de0800000000000000
+      internalID: -1360019605404271032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kayfo_bottom_logo
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 328
+        width: 90
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd7cabaeece76d70800000000000000
+      internalID: 9036451687168769456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 150
+        width: 239
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934e32be0a4b644d0800000000000000
+      internalID: -3150632286066318279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 0
+        width: 490
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcef6f4128940a50800000000000000
+      internalID: 6486476632154434739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Profile_title_bar
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 279
+        width: 330
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb543962cde122fb0800000000000000
+      internalID: -4674139532368329282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kayfo_upper_logo
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 154
+        width: 144
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cb9fc1786790710800000000000000
+      internalID: 1659988260341529602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Profile_bottom_bar
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 181
+        width: 327
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03493c1258d87cfd0800000000000000
+      internalID: -2321731479949568976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Module_arrow
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 700
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0535349145d8e3330800000000000000
+      internalID: 3692544136830997328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lock
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 662
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d1db0dda8776540800000000000000
+      internalID: 5001098599144955268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Achieved
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 677
+        width: 44
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4284436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c133cd93986e7b0800000000000000
+      internalID: -5195314238524810159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Not_achieved
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 643
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97009d5744dfb4860800000000000000
+      internalID: 7515378873674563705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Profile_background
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 579
+        width: 142
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e553af181a6a12f40800000000000000
+      internalID: 5702021815828362590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

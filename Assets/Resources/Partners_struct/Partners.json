@@ -1,0 +1,136 @@
+﻿{
+  "partners": [
+    {
+      "partner_name": "Papa Mactar",
+      "image_name": "abdoulaye_hann",
+      "title": "default",
+      "gender": "male"
+    },
+    {
+      "partner_name": "Abdoulaye",
+      "image_name": "papa_mactar_sow",
+      "title": "default",
+      "gender": "male"
+    },
+    {
+      "partner_name": "Francis",
+      "image_name": "issa_ba",
+      "title": "default",
+      "gender": "male"
+    },
+    {
+      "partner_name": "Issa",
+      "image_name": "francis_silakoul",
+      "title": "default",
+      "gender": "male"
+    },
+    {
+      "partner_name": "Malick",
+      "image_name": "mamadou_thiam",
+      "title": "default",
+      "gender": "male"
+    },
+    {
+      "partner_name": "Zerbo",
+      "image_name": "malick_dramé",
+      "title": "default",
+      "gender": "male"
+    },
+    {
+      "partner_name": "Mamadou",
+      "image_name": "zerbo",
+      "title": "default",
+      "gender": "male"
+    },
+    {
+      "partner_name": "Fily",
+      "image_name": "abdoulaye_hann_1",
+      "title": "default",
+      "gender": "male"
+    },
+    {
+      "partner_name": "Abdoulaye",
+      "image_name": "fily_cissokho",
+      "title": "default",
+      "gender": "male"
+    },
+    {
+      "partner_name": "Arfang",
+      "image_name": "guorgui_malick_diallo",
+      "title": "default",
+      "gender": "male"
+    },
+    {
+      "partner_name": "Boubacar",
+      "image_name": "arfang_mafoudji",
+      "title": "default",
+      "gender": "male"
+    },
+    {
+      "partner_name": "Guorgui",
+      "image_name": "boubacar_diallo",
+      "title": "default",
+      "gender": "male"
+    },
+    {
+      "partner_name": "Johana",
+      "image_name": "aita_diouf",
+      "title": "default",
+      "gender": "female"
+    },
+    {
+      "partner_name": "Aita",
+      "image_name": "johana",
+      "title": "default",
+      "gender": "female"
+    },
+    {
+      "partner_name": "Thiara",
+      "image_name": "mariama_diéne",
+      "title": "default",
+      "gender": "female"
+    },
+    {
+      "partner_name": "Mariama",
+      "image_name": "thiara",
+      "title": "default",
+      "gender": "female"
+    },
+    {
+      "partner_name": "Soukaye",
+      "image_name": "sophie_diagne",
+      "title": "default",
+      "gender": "female"
+    },
+    {
+      "partner_name": "Sophie",
+      "image_name": "soukaye_diaw",
+      "title": "default",
+      "gender": "female"
+    },
+    {
+      "partner_name": "Adama",
+      "image_name": "ache_attimer",
+      "title": "default",
+      "gender": "female"
+    },
+    {
+      "partner_name": "Ache",
+      "image_name": "adama_bintou_sow",
+      "title": "default",
+      "gender": "female"
+    },
+    {
+      "partner_name": "Ndeye",
+      "image_name": "marie_soce_ndour",
+      "title": "default",
+      "gender": "female"
+    },
+    {
+      "partner_name": "Marie",
+      "image_name": "ndeye_aminata_voyel",
+      "title": "default",
+      "gender": "female"
+    }
+  ]
+}

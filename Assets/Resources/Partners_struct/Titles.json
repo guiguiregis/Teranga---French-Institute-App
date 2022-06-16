@@ -1,0 +1,35 @@
+﻿{
+  "titles": [
+    {
+      "max_level": 6,
+      "titles_names": [
+        "Stagiaire",
+        "Développeur",
+        "Chef de projet",
+        "Comptable externe",
+        "Community manager"
+      ]
+    },
+    {
+      "max_level": 12,
+      "titles_names": [
+        "Business developer",
+        "Responsable communication",
+        "Ressources humaines",
+        "Directeur technique",
+        "Chef de projet senior",
+        "Développeur Senior"
+      ]
+    },
+    {
+      "max_level": 13,
+      "titles_names": [
+        "Assistante de direction",
+        "Directeur des ressources humaines",
+        "Directeur financier",
+        "Directeur des opérations",
+        "Consultant"
+      ]
+    }
+  ]
+}

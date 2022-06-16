@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Screens/Boot_screen.unity
+    guid: 8d8d1c809e79761439de30aec37bd56f
+  - enabled: 1
+    path: Assets/Scenes/Screens/BD_engine_screen.unity
+    guid: 8af319426422e4a43ab95ce9be87438d
+  - enabled: 1
+    path: Assets/Scenes/Screens/Splash_screen.unity
+    guid: c9c5d323b01844943966d4c7d86c2f23
+  - enabled: 1
+    path: Assets/Scenes/Screens/Old/Stage_screen.unity
+    guid: 0d4be547a77a0dc40a3d3ae1e8dabba3
+  - enabled: 1
+    path: Assets/Scenes/Games/Hanged/Scenes/Hanged.unity
+    guid: a9c46768d50f44300b4939b55c36fc71
+  - enabled: 1
+    path: Assets/Scenes/Games/Word_search/Scenes/Word_search.unity
+    guid: 80d5629c787ad984391757deb8970be4
+  - enabled: 1
+    path: Assets/Scenes/Games/Missing_words/Scenes/Missing_words.unity
+    guid: 7b90ce1272b496e4a8570662aa496b0d
+  - enabled: 1
+    path: Assets/Scenes/Games/One_pic_four_words/Scenes/One_Pic_Four_Words.unity
+    guid: 170cfeab46b18fa41a636754b3c29807
+  - enabled: 1
+    path: Assets/Scenes/Games/Quiz/Scenes/Quiz.unity
+    guid: cabf2bd845e23f144bdc69cb70b5c96a
+  - enabled: 1
+    path: Assets/Scenes/Games/Word_clouds/Scenes/Word_clouds.unity
+    guid: 5ec2e64a3e4fd6e4f8e6a8c26f98acc7
+  - enabled: 1
+    path: Assets/Scenes/Screens/Profile_setup_screen.unity
+    guid: 610297d32a28946819845bbe2d9dfb8c
+  - enabled: 1
+    path: Assets/Scenes/Screens/Menu_screen.unity
+    guid: 8b743d0cf51464be9ac519d3dbe23225
+  - enabled: 1
+    path: Assets/Scenes/Screens/Module_screen.unity
+    guid: c65ab1ddc630e4fd7b7bb4e4dd0b6a7e
+  - enabled: 1
+    path: Assets/Scenes/Screens/Endgame_screen.unity
+    guid: eb6c4a68bc1c24b95a27ffd43fde9be9
+  - enabled: 1
+    path: Assets/Scenes/Screens/Team_screen.unity
+    guid: 1713809ea75b94b7b90595ad7326e614
+  m_configObjects: {}

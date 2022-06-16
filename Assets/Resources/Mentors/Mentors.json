@@ -1,0 +1,34 @@
+﻿{
+  "mentors": [
+    {
+      "mentor_name": "Aziz",
+      "image_name": "aziz",
+      "module_name": "LEAN CANVAS"
+    },
+    {
+      "mentor_name": "Inza",
+      "image_name": "inza",
+      "module_name": "Leadership"
+    },
+    {
+      "mentor_name": "Inza",
+      "image_name": "inza",
+      "module_name": "Communication"
+    },
+    {
+      "mentor_name": "player",
+      "image_name": "male",
+      "module_name": "Structuration"
+    },
+    {
+      "mentor_name": "Carine",
+      "image_name": "carine",
+      "module_name": "Financement"
+    },
+    {
+      "mentor_name": "Adrien",
+      "image_name": "adrien",
+      "module_name": "Tech au Sénégal"
+    }
+  ]
+}

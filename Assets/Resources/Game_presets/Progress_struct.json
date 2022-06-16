@@ -1,0 +1,179 @@
+﻿{
+  "modules": [
+    {
+      "name": "Communication",
+      "levels": [
+        {
+          "unlocked": true,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        }
+      ]
+    },
+    {
+      "name": "Leadership",
+      "levels": [
+        {
+          "unlocked": true,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        }
+      ]
+    },
+    {
+      "name": "Financement",
+      "levels": [
+        {
+          "unlocked": true,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        }
+      ]
+    },
+    {
+      "name": "Tech au Sénégal",
+      "levels": [
+        {
+          "unlocked": true,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        }
+      ]
+    },
+    {
+      "name": "Structuration",
+      "levels": [
+        {
+          "unlocked": true,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        }
+      ]
+    },
+    {
+      "name": "LEAN CANVAS",
+      "levels": [
+        {
+          "unlocked": true,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        },
+        {
+          "unlocked": false,
+          "progress": [ 0, 0, 0 ]
+        }
+      ]
+    }
+  ],
+  "partners": []
+}
